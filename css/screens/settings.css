@@ -1,0 +1,31 @@
+.settings__setting {
+  padding: 22px 0px;
+  font-size: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+.sub-border {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+.main-border {
+  padding-bottom: 40px;
+  border-bottom: var(--main-border);
+  margin-bottom: 20px;
+}
+.settings__setting i {
+  opacity: 0.8;
+  margin-right: 0px;
+  font-size: 25px;
+}
+.settings__setting span {
+  margin-left: 15px;
+}
+.settings__setting i:last-child {
+  font-size: 18px;
+  color: #00bfff;
+}
+.settings__setting-column:last-child {
+  opacity: 0.6;
+}
