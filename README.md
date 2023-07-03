@@ -1,3 +1,3 @@
 # Kokoa Clone Challenge 2023
 
-HTML & CSS are so much fun!
+Please set the screen to 80%.
